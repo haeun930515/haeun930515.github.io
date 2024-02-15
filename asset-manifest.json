@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bioaddadadmin/static/css/main.445b2e1b.css",
-    "main.js": "/bioaddadadmin/static/js/main.d0cb4782.js",
-    "static/js/787.5337bcfc.chunk.js": "/bioaddadadmin/static/js/787.5337bcfc.chunk.js",
-    "static/media/bioaddlab_logo.png": "/bioaddadadmin/static/media/bioaddlab_logo.92342d1733804405496c.png",
-    "static/media/bioaddlab_kiosk_preview.png": "/bioaddadadmin/static/media/bioaddlab_kiosk_preview.7e1e2874e506b1867975.png",
-    "index.html": "/bioaddadadmin/index.html",
-    "main.445b2e1b.css.map": "/bioaddadadmin/static/css/main.445b2e1b.css.map",
-    "main.d0cb4782.js.map": "/bioaddadadmin/static/js/main.d0cb4782.js.map",
-    "787.5337bcfc.chunk.js.map": "/bioaddadadmin/static/js/787.5337bcfc.chunk.js.map"
+    "main.css": "/static/css/main.445b2e1b.css",
+    "main.js": "/static/js/main.158d9b62.js",
+    "static/js/787.5337bcfc.chunk.js": "/static/js/787.5337bcfc.chunk.js",
+    "static/media/bioaddlab_logo.png": "/static/media/bioaddlab_logo.92342d1733804405496c.png",
+    "static/media/bioaddlab_kiosk_preview.png": "/static/media/bioaddlab_kiosk_preview.7e1e2874e506b1867975.png",
+    "index.html": "/index.html",
+    "main.445b2e1b.css.map": "/static/css/main.445b2e1b.css.map",
+    "main.158d9b62.js.map": "/static/js/main.158d9b62.js.map",
+    "787.5337bcfc.chunk.js.map": "/static/js/787.5337bcfc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.445b2e1b.css",
-    "static/js/main.d0cb4782.js"
+    "static/js/main.158d9b62.js"
   ]
 }
